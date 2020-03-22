@@ -1,2 +1,3 @@
-# Libby_first_project_git
- for Testing
+# Libby first project git
+## Try to learn something new
+**************************************************************************************
