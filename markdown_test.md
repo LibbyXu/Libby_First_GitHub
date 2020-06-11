@@ -1,5 +1,5 @@
-# Hello, beautiful world!!!
-
-### Cool, this is my first doing the github! I download a lot of repositories before but never establish one myself. But this time, I have one and Welcome to my github!!!
-
+#For testing purpose
+Hello, friends in GitHub!!!
+Cool, it is my first time to use the GitHub-flavored Markdown. Hopefully, practise makes perfect. 
+### I knew Github a long time ago and download numerous repositories before, but I never establish one myself. Excitingly, from now on, I have my GitHub created and welcome to my GitHub!!!
 ***********************************************************************************************************

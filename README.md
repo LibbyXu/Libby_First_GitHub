@@ -1,3 +1,5 @@
-# Libby first project git
-## Try to learn something new
+# Try to learn something new --- Libby’s GitHub 
+Welcome to my GitHub. Your commands and suggestions on the codes and mathematical algorithms on effective programming strategies & performances are highly appreciated. 
+## Something about me
+You can call me Libby. I am a Ph.D. Research Assistant and live in Southern California. My main research direction is Computational Molecular Modeling (Chemistry-based). I am enthusiastic about applying programming languages to solve practical chemistry/physical problems and implementing complex mathematical algorithms/models. Meanwhile, I am good at automated high-volume data acquisition/processing & statistical data analysis. Currently, I am on my way to learn & employ different machine learning (ML) and deep learning concepts in various exciting projects.  
 **************************************************************************************
